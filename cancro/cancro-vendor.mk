@@ -490,6 +490,4 @@ PRODUCT_PACKAGES += \
     libqmiservices \
     libtime_genoff \
     TimeService \
-    shutdownlistener \
     qcrilmsgtunnel
-
